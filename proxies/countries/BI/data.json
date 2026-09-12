@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks4://197.157.194.28:1080",
-    "protocol": "socks4",
-    "ip": "197.157.194.28",
-    "port": 1080,
+    "proxy": "socks5://45.74.31.42:19307",
+    "protocol": "socks5",
+    "ip": "45.74.31.42",
+    "port": 19307,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,9 +13,9 @@
     }
   },
   {
-    "proxy": "socks4://197.157.192.168:1080",
+    "proxy": "socks4://197.157.194.28:1080",
     "protocol": "socks4",
-    "ip": "197.157.192.168",
+    "ip": "197.157.194.28",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",

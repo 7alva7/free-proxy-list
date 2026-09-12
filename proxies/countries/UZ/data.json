@@ -1,0 +1,15 @@
+[
+  {
+    "proxy": "http://107.175.24.166:8443",
+    "protocol": "http",
+    "ip": "107.175.24.166",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UZ",
+      "city": "Unknown"
+    }
+  }
+]
