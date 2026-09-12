@@ -1,4 +1,10 @@
-socks4://193.200.151.69:32777,UA,Unknown
-socks4://185.244.158.4:3129,UA,Unknown
-socks4://194.31.212.115:1080,UA,Unknown
-http://85.159.2.31:58080,UA,Unknown
+socks5://178.150.77.204:10801,UA,Unknown
+socks5://212.3.127.242:10801,UA,Unknown
+socks5://195.114.7.6:1080,UA,Unknown
+socks4://195.140.226.32:5678,UA,Unknown
+socks4://193.106.57.96:5678,UA,Unknown
+socks4://37.52.13.164:5678,UA,Unknown
+socks4://46.98.193.59:5678,UA,Unknown
+socks4://195.78.113.38:4153,UA,Unknown
+http://193.24.30.50:37777,UA,Unknown
+http://31.202.84.127:38777,UA,Unknown
