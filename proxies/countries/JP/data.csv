@@ -1,6 +1,6 @@
 socks5://101.36.104.239:10808,JP,Unknown
 socks5://101.36.104.46:10808,JP,Unknown
-socks5://45.74.31.40:4747,JP,Unknown
+socks5://191.223.220.23:1080,JP,Unknown
 socks5://54.95.120.6:1080,JP,Unknown
 http://133.242.152.27:443,JP,Unknown
 http://133.167.87.173:443,JP,Unknown
@@ -30,7 +30,9 @@ http://118.184.157.67:1443,JP,Unknown
 http://140.238.50.134:1234,JP,Unknown
 http://120.232.204.58:40583,JP,Unknown
 http://3.113.254.166:443,JP,Unknown
-http://168.138.202.218:3128,JP,Unknown
+http://103.135.244.2:443,JP,Unknown
+http://103.135.244.2:9443,JP,Unknown
+http://140.238.32.108:3128,JP,Unknown
 http://13.230.34.30:80,JP,Tokyo
 http://89.116.88.19:80,JP,
 http://48.210.225.96:80,JP,Tokyo

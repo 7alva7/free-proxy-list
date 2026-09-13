@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "socks5://65.21.252.66:10811",
+    "proxy": "socks5://46.35.93.100:9090",
     "protocol": "socks5",
-    "ip": "65.21.252.66",
-    "port": 10811,
+    "ip": "46.35.93.100",
+    "port": 9090,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "BZ",
+      "country": "YE",
       "city": "Unknown"
     }
   }
